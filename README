@@ -1,0 +1,5 @@
+Create a python3 virtualenv:
+virtualenv -p python3 _env
+
+source _env/bin/activate
+pip3 install -r requirements.txt
