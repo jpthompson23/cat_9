@@ -25,7 +25,7 @@ def scrape():
             # TODO: try to determine a show "title", like e.g. the headline act
             # or if it's a dance party/other event, split on the "featuring"
             # line, or the line that ends with "presents:", etc...
-            if act.text.lower.strip(":") in ["feat", "featuring"]:
+            if act.text.lower().strip(":") in ["feat", "featuring"]:
                 # Some lines just say "feat" or "featuring", not a real act...
                 continue
 
