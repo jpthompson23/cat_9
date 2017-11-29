@@ -3,3 +3,20 @@ virtualenv -p python3 _env
 
 source _env/bin/activate
 pip3 install -r requirements.txt
+
+Install postgres:
+sudo apt-get install postgresql
+
+Connect to server as user `postgres`:
+sudo -u postgres psql postgres
+
+Change password for user `postgres`:
+\password postgres
+
+Set up database:
+CREATE DATABASE cat_9;
+CREATE USER cat_9 WITH PASSWORD '<some_password>';
+GRANT ALL PRIVILEGES ON DATABASE cat_9 TO cat_9;
+
+Find which port postgres is running on:
+SELECT name, setting FROM pg_settings WHERE name = 'port';

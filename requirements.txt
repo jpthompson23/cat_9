@@ -1,3 +1,5 @@
 beautifulsoup4
 requests
 lxml
+psycopg2
+sqlalchemy
