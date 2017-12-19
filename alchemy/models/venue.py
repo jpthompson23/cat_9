@@ -1,6 +1,6 @@
 from sqlalchemy import Column, Integer, String
 
-from alchemy.models import Base
+from alchemy import Base
 
 
 class Venue(Base):

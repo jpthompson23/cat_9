@@ -1,29 +1,14 @@
 import json
 
-import sqlalchemy
 from sqlalchemy.orm import sessionmaker
 
-from alchemy.models import Base
+from alchemy import Base, connect
 from alchemy.models.venue import Venue
 from settings import DB, USER, PASSWORD
 
 
-def connect(user, password, db, host='localhost', port=5432):
-    """
-    Returns a connection
-    """
-    # We connect with the help of the PostgreSQL URL
-    # postgresql://<user>:<password>@<host>:<port>/<db>
-    url = 'postgresql://{}:{}@{}:{}/{}'.format(user, password, host, port, db)
-
-    # The return value of create_engine() is our connection object
-    conn = sqlalchemy.create_engine(url, client_encoding='utf8')
-
-    return conn
-
-
 def initdb():
-    conn = connect(USER, PASSWORD, DB)
+    conn = connect(DB, USER, PASSWORD)
 
     Session = sessionmaker(bind=conn)
     session = Session()

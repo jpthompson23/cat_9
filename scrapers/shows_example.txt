@@ -1,0 +1,30 @@
+{"acts": ["NO SHOW MONDAY"], "messages": [], "date": "2017-12-18T00:00:00"}
+{"acts": ["RED ROOM OPEN"], "messages": [], "date": "2017-12-19T00:00:00"}
+{"acts": ["SUZIE'S BIRTHDAY PARTY!", "Vinyl spun by", "Baby Alcatraz", "and Mark Cisneros", "Plus free pinball!"], "messages": ["free Red Room / Doors at 6:30"], "date": "2017-12-20T00:00:00"}
+{"acts": ["RED ROOM OPEN"], "messages": [], "date": "2017-12-21T00:00:00"}
+{"acts": ["CUMTOWN Live Podcast"], "messages": ["$15 Adv/ $20 DOS Mainstage / Doors at 8:00"], "date": "2017-12-22T00:00:00"}
+{"acts": ["STAR TREK HAPPY HOUR", "One episode of classic Star Trek & drink specials every Friday!"], "messages": ["free Backstage / Doors at 7:00"], "date": "2017-12-22T00:00:00"}
+{"acts": ["DARK & STORMY", "Darker side of Dance / Electro / Retro"], "messages": ["$5 Backstage / Doors at 9:30", "Tickets available night of show."], "date": "2017-12-22T00:00:00"}
+{"acts": ["THE OBSESSED", "REZIN", "THE MESSTHETICS (Brendan Canty, Joe Lally, Anthony Pirog) "], "messages": ["$20 Mainstage / Doors at 8:00"], "date": "2017-12-23T00:00:00"}
+{"acts": ["DR. WHO HAPPY HOUR", "One episode of Dr. Who & drink specials every Saturday!"], "messages": ["free Backstage / Doors at 7:00"], "date": "2017-12-23T00:00:00"}
+{"acts": ["HEAVY ROTATION", "Strictly Vinyl Funk, Disco, and Soul Jams from Days Past", "Adrian Collazo (Phunked Up, ESL)", "Steven Swann (Big Ugly Truck, Fatback DC)", "and Kenny M"], "messages": ["$5 Backstage / Doors at 9:30", "FREE BEFORE 11PM", "Tickets available night of show."], "date": "2017-12-23T00:00:00"}
+{"acts": ["QUEER GIRL MOVIE NIGHT"], "messages": ["free Mainstage / Doors at 8:00"], "date": "2017-12-29T00:00:00"}
+{"acts": ["STAR TREK HAPPY HOUR", "One episode of classic Star Trek & drink specials every Friday!"], "messages": ["free Backstage / Doors at 7:00"], "date": "2017-12-29T00:00:00"}
+{"acts": ["LIP SYNC BATTLE BURLESQUE"], "messages": ["$12 Adv/ $15 DOS Backstage / Doors at 9:00"], "date": "2017-12-29T00:00:00"}
+{"acts": ["EX HEX", "SNAIL MAIL", "DES DEMONAS", "DJ MAD SQUIRREL"], "messages": ["$18 Adv/ $20 DOS Mainstage / Doors at 8:00"], "date": "2017-12-30T00:00:00"}
+{"acts": ["DR. WHO HAPPY HOUR", "One episode of Dr. Who & drink specials every Saturday!"], "messages": ["free Backstage / Doors at 7:00"], "date": "2017-12-30T00:00:00"}
+{"acts": ["INVAZION!", "Drag Show & Dance Party", "PUSSY NOIR", "and music by:", "TEARA NEWHOLE GSUS"], "messages": ["$5 Backstage / Doors at 9:30", "Tickets available night of show."], "date": "2017-12-30T00:00:00"}
+{"acts": ["BLACK CATNEW YEAR'S EVE BALL", "On the Mainstage:", "PEACHES O'DELL & HER ORCHESTRA", "TONY ANTHONY & HIS MALVIVANTS", "On the Backstage:", "DJ DREDD"], "messages": ["$30 Both Floors / Doors at 7:00"], "date": "2017-12-31T00:00:00"}
+{"acts": ["DESTROYER", "MEGA BOG"], "messages": ["$20 Adv/ $25 DOS Mainstage / Doors at 7:30"], "date": "2017-01-28T00:00:00"}
+{"acts": ["LAURA STEVENSON"], "messages": ["$15 Backstage / Doors at 7:30"], "date": "2017-01-29T00:00:00"}
+{"acts": ["GIRLPOOL", "LAND OF TALK (solo)", "FORTH WANDERERS"], "messages": ["$16 Adv/ $18 DOS Mainstage / Doors at 7:30"], "date": "2017-02-07T00:00:00"}
+{"acts": ["VINILOVERSUS", "THE NEURO FARM", "RED THIS EVER"], "messages": ["$15 Backstage / Doors at 7:30"], "date": "2017-02-11T00:00:00"}
+{"acts": ["CRYFEST", "THE CURE vs. THE SMITHS Dance Party", "w/ DJs Steve EP, Missguided, Killa K, and Krasty McNasty"], "messages": ["$12 Mainstage / Doors at 9:30"], "date": "2017-02-24T00:00:00"}
+{"sold_out": true, "acts": ["FRIGHTENED RABBIT", "WINTERSLEEP"], "messages": ["Mainstage / Doors at 7:30"], "date": "2017-02-27T00:00:00"}
+{"sold_out": true, "acts": ["FRIGHTENED RABBIT", "WINTERSLEEP"], "messages": ["Mainstage / Doors at 7:30"], "date": "2017-02-28T00:00:00"}
+{"acts": ["FUTURISTIC", "What More Could You Ask For?"], "messages": ["$18 Adv/ $20 DOS Mainstage / Doors at 7:30"], "date": "2017-03-01T00:00:00"}
+{"acts": ["An evening with", "NADA SURF"], "messages": ["$25 Mainstage / Doors at 7:30"], "date": "2017-03-07T00:00:00"}
+{"acts": ["MAC SABBATH", "GALACTIC EMPIRE"], "messages": ["$18 Adv/ $20 DOS Mainstage / Doors at 8:00"], "date": "2017-03-10T00:00:00"}
+{"sold_out": true, "acts": ["BILLIE EILISH", "with guest REO CRAGUN"], "messages": ["Mainstage / Doors at 7:30"], "date": "2017-03-20T00:00:00"}
+{"acts": ["SON LUX", "SINKANE", "HANNA BENN"], "messages": ["$18 Adv/ $20 DOS Mainstage / Doors at 7:30"], "date": "2017-03-21T00:00:00"}
+{"acts": ["PORCHES"], "messages": ["$16 Adv/ $18 DOS Mainstage / Doors at 7:30"], "date": "2017-03-22T00:00:00"}
