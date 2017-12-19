@@ -1,13 +1,11 @@
 import json
 
 import sqlalchemy
-from sqlalchemy import Table, Column, Integer, String
-from sqlalchemy.ext.declarative import declarative_base
 from sqlalchemy.orm import sessionmaker
 
+from alchemy.models import Base
+from alchemy.models.venue import Venue
 from settings import DB, USER, PASSWORD
-
-Base = declarative_base()
 
 
 def connect(user, password, db, host='localhost', port=5432):
@@ -22,14 +20,6 @@ def connect(user, password, db, host='localhost', port=5432):
     conn = sqlalchemy.create_engine(url, client_encoding='utf8')
 
     return conn
-
-
-class Venue(Base):
-    __tablename__ = 'venues'
-
-    id = Column(Integer, primary_key=True, autoincrement=True)
-    name = Column(String)
-    address = Column(String)
 
 
 def initdb():
